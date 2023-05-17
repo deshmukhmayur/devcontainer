@@ -1,6 +1,6 @@
 FROM fedora:38
 
-LABEL maintainer="@deshmukhmayur"
+LABEL maintainer="deshmukhmayur"
 
 LABEL name="deshmukhmayur/base-node"
 LABEL version="0.1.0"
